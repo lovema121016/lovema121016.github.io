@@ -89,12 +89,12 @@
 				    <div class="media">
 					    <img class="mr-3 img-fluid post-thumb d-none d-md-flex" src="assets/images/blog/yangyang.jpg" alt="image">
 					    <div class="media-body">
-						    <h3 class="title mb-1"><a href="https://github.com/lovema121016/yangyang/tree/master">"泱泱"国货系统的设计与实现</a></h3>
+						    <h3 class="title mb-1"><a href="https://github.com/lovema121016/yangyang1.git">"泱泱"国货系统的设计与实现</a></h3>
 						    <div class="meta mb-1"><span class="date">毕设项目</span>个人独自完成<span class="time"></span><span class="comment"><a href="#"></a>作为小组成员</span></div>
 						    <div class="intro">过去十年，是中国制造的内涵发生转变的十年。
 但是消费者对于“国货”品牌的认识还有待提高，各种网站、App上东西种类繁多，鱼龙混杂，很多自称国货，却是粗制滥造，不仅促使消费者降低对国产商品的消费热情，而且也阻碍了优秀国货品牌的发展。因此“泱泱”国货平台的设计与实现系统可以通过对目前现有的热门购物网站、App的商品的评价、购买情况及用户发表的国货分享文章进行综合分析，实现用户对国货从不了解到认识再到准确购买的一体化服务，为用户打造一个国货购买指南。
                            </div>
-						    <a class="more-link" href="https://github.com/lovema121016/yangyang/tree/master">更多 &rarr;</a>
+						    <a class="more-link" href="https://github.com/lovema121016/yangyang1.git">更多 &rarr;</a>
 					    </div><!--//media-body-->
 				    </div><!--//media-->
 			    </div><!--//item-->
@@ -103,10 +103,10 @@
 				    <div class="media">
 					    <img class="mr-3 img-fluid post-thumb d-none d-md-flex" style="height:200px" src="assets/images/blog/kuoyelin.jpg" alt="image">
 					    <div class="media-body">
-						    <h3 class="title mb-1"><a href="https://github.com/lovema121016/kuoyelin/tree/master">基于当下心理预防、治疗及咨询平台的设计与开发</a></h3>
+						    <h3 class="title mb-1"><a href="https://github.com/lovema121016/kuoyelin/tree/main">基于当下心理预防、治疗及咨询平台的设计与开发</a></h3>
 						    <div class="meta mb-1"><span class="date">2018-2019年间</span><span class="time">开发</span><span class="comment"><a href="#"></a>创新创业项目</span></div>
 						    <div class="intro">本产品为阔叶林心理测评小程序。随着人们生活水平的显著提高，但生活压力，工作压力等也伴随而来，内在外在的心理问题大量涌现。为提供给患者一个专业，可靠，有效，便捷，隐私的心理治疗平台，特设计开发了一款专业的“阔叶林”心理测评小程序。通过前端小程序和web后台的紧密结合，满足了两大用户需求：（1）为普通用户提供免费且专业的心理测试系统，（2）专业医师通过后台便捷地为普通用户出心理测试题。从出题到做题形成了流程清晰，功能完整的独立系统。 </div>
-						    <a class="more-link" href="https://github.com/lovema121016/kuoyelin/tree/master">更多 &rarr;</a>
+						    <a class="more-link" href="https://github.com/lovema121016/kuoyelin/tree/main">更多 &rarr;</a>
 					    </div><!--//media-body-->
 				    </div><!--//media-->
 			    </div><!--//item-->
@@ -117,10 +117,10 @@
 				    <div class="media">
 					    <img class="mr-3 img-fluid post-thumb d-none d-md-flex" src="assets/images/blog/linghang.JPG" alt="image">
 					    <div class="media-body">
-						    <h3 class="title mb-1"><a href="https://github.com/lovema121016/linghang/tree/master">“领航”辅助自动驾驶系统</a></h3>
+						    <h3 class="title mb-1"><a href="https://github.com/lovema121016/auto_drive.git">“领航”辅助自动驾驶系统</a></h3>
 						    <div class="meta mb-1"><span class="date">2019-06开发完成</span><span class="time">Lindia团队开发</span><span class="comment"><a href="#">第八届软件杯全国三等奖</a></span></div>
 						    <div class="intro">开发出基于计算机视觉的辅助自动驾驶应用，能满足在驾驶员驾驶过程中对环境中的车道线、交通信号灯、车辆进行检测和识别，并把检测结果反馈给驾驶员，提醒驾驶员安全驾驶。主要包括图像的捕捉存储设计、存储的图像的处理分析设计，分析结果反馈的设计等。 </div>
-						    <a class="more-link" href="https://github.com/lovema121016/linghang/tree/master">更多 &rarr;</a>
+						    <a class="more-link" href="https://github.com/lovema121016/auto_drive.git">更多 &rarr;</a>
 					    </div><!--//media-body-->
 				    </div><!--//media-->
 			    </div><!--//item-->
@@ -159,10 +159,10 @@
 				    <div class="media">
 					    <img class="mr-3 img-fluid post-thumb d-none d-md-flex" src="assets/images/blog/zhuanzhuan.jpg" alt="image">
 					    <div class="media-body">
-						    <h3 class="title mb-1"><a href="https://github.com/lovema121016/zhuanzhuan/tree/master">转赚</a></h3>
+						    <h3 class="title mb-1"><a href="https://github.com/lovema121016/zhuanzhuan.git">转赚</a></h3>
 						    <div class="meta mb-1"><span class="date">2017-12-07完成</span>群英队开发<span class="time"></span><span class="comment"><a href="#"></a>作为小组成员</span></div>
 						    <div class="intro">本产品是一个二手交易平台，通过开发Web在线交易网站给石家庄铁道大学学生提供一个高效的闲置物品交易平台，使交易变得轻松简单。同时提供兼职平台，同学可以通过给学生送货赚取少量收入。</div>
-						    <a class="more-link" href="https://github.com/lovema121016/zhuanzhuan/tree/master">更多 &rarr;</a>
+						    <a class="more-link" href="https://github.com/lovema121016/zhuanzhuan.git">更多 &rarr;</a>
 					    </div><!--//media-body-->
 				    </div><!--//media-->
 			    </div><!--//item-->
