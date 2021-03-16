@@ -90,7 +90,7 @@
 					    <img class="mr-3 img-fluid post-thumb d-none d-md-flex" src="assets/images/blog/yangyang.jpg" alt="image">
 					    <div class="media-body">
 						    <h3 class="title mb-1"><a href="https://github.com/lovema121016/yangyang1.git">"泱泱"国货系统的设计与实现</a></h3>
-						    <div class="meta mb-1"><span class="date">毕设项目</span>个人独自完成<span class="time"></span><span class="comment"><a href="#"></a>作为小组成员</span></div>
+						    <div class="meta mb-1"><span class="date">毕设项目</span>个人独自完成<span class="time"></span><span class="comment"><a href="#"></a></span></div>
 						    <div class="intro">过去十年，是中国制造的内涵发生转变的十年。
 但是消费者对于“国货”品牌的认识还有待提高，各种网站、App上东西种类繁多，鱼龙混杂，很多自称国货，却是粗制滥造，不仅促使消费者降低对国产商品的消费热情，而且也阻碍了优秀国货品牌的发展。因此“泱泱”国货平台的设计与实现系统可以通过对目前现有的热门购物网站、App的商品的评价、购买情况及用户发表的国货分享文章进行综合分析，实现用户对国货从不了解到认识再到准确购买的一体化服务，为用户打造一个国货购买指南。
                            </div>
@@ -147,9 +147,9 @@
 				    <div class="media">
 					    <img class="mr-3 img-fluid post-thumb d-none d-md-flex" src="assets/images/blog/happy.jpg" alt="image">
 					    <div class="media-body">
-						    <h3 class="title mb-1"><a href="https://github.com/lovema121016/HappyLemon/tree/master">快乐柠檬进销存管理系统转赚</a></h3>
+						    <h3 class="title mb-1"><a href="https://github.com/lovema121016/HappyLemon/tree/master">快乐柠檬进销存管理系统</a></h3>
 						    <div class="meta mb-1"><span class="date">2018完成</span>团队开发<span class="time"></span>队长<span class="comment"><a href="#"></a></span></div>
-						    <div class="intro">本产品是一个二手交易平台，通过开发Web在线交易网站给石家庄铁道大学学生提供一个高效的闲置物品交易平台，使交易变得轻松简单。同时提供兼职平台，同学可以通过给学生送货赚取少量收入。</div>
+						    <div class="intro">本系统使用C#语言，运行在Microsoft Visual Studio开发工具上 实现购货管理、销售管理、仓库管理、资金管理、基础数据管理等功能。</div>
 						    <a class="more-link" href="https://github.com/lovema121016/HappyLemon/tree/master">更多 &rarr;</a>
 					    </div><!--//media-body-->
 				    </div><!--//media-->
